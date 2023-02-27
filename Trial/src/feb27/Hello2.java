@@ -8,7 +8,7 @@ public class Hello2 {
 		int c = a+b;
 		
 		// comment
-		System.out.println("total is haha"+c);
+		System.out.println("total is"+c);
 
 	}
 
